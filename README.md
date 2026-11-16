@@ -19,4 +19,9 @@ TypeScript, Python, JavaScript, Swift, React Native.
 
 ## Links
 
+- [Evo](https://www.evoconn.com/)
+- [Evo on Google Play](https://play.google.com/store/apps/details?id=com.evoconn.evo&hl=es_419)
+- [Instagram](https://www.instagram.com/evoconnn/)
+- [TikTok](https://www.tiktok.com/@evoconn)
+- [YouTube](https://www.youtube.com/@EvoConn)
 - [LinkedIn](https://www.linkedin.com/in/rmartinezcasau/)
