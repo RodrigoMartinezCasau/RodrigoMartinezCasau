@@ -20,7 +20,7 @@ TypeScript, Python, JavaScript, Swift, React Native.
 ## Links
 
 - [Evo](https://www.evoconn.com/)
-- [Fyodos](https://fiodos.com/)
+- [Fiodos](https://fiodos.com/)
 - [Evo on Google Play](https://play.google.com/store/apps/details?id=com.evoconn.evo&hl=es_419)
 - [Instagram](https://www.instagram.com/evoconnn/)
 - [TikTok](https://www.tiktok.com/@evoconn)
