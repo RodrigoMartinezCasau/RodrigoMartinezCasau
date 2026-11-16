@@ -2,7 +2,7 @@
 
 Computer Science & AI at IE University, Madrid. I build AI products, from consumer apps to agents that run inside other apps.
 
-Content creator with 2.3 million followers across social media (@EvoConn).
+The fastest growing content creator of 2026: 0 to 2.3 million followers (@EvoConn).
 
 ## Work
 
