@@ -22,7 +22,7 @@ Most of my code lives in private repositories.
 [Demo](https://www.tiktok.com/@evoconn/video/7660194034664639766) · [Source](https://github.com/RodrigoMartinezCasau/lizzy-voice)
 
 **Aura Farmed.** NASA Space Apps Challenge 2026 (Field Shift).  
-[Source](https://github.com/alejandroserranosanchez/AURAFARMED)
+[Source](https://www.spaceappschallenge.org/2026/find-a-team/odazai/?tab=project)
 
 
 ## 🛠️ Stack
