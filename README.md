@@ -21,9 +21,12 @@ Most of my code lives in private repositories.
 **Lizzy.** A voice assistant for the Fiodos team. In the demo it still answers to Jarvis; same model.  
 [Demo](https://www.tiktok.com/@evoconn/video/7660194034664639766) · [Source](https://github.com/RodrigoMartinezCasau/lizzy-voice)
 
-**Aura Farmed.** NASA Space Apps Challenge 2026 (Field Shift).  
+**Aura Farmed.** NASA Space Apps Challenge 2026 (Field Shift), with Alejandro Serrano.  
 [Source](https://www.spaceappschallenge.org/2026/find-a-team/odazai/?tab=project)
 
+## 🌱 Building now
+
+**Odazai.** Not public yet.
 
 ## 🛠️ Stack
 
