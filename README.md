@@ -1,28 +1,36 @@
 # Rodrigo Martínez Casaú
 
-Computer Science & AI at IE University, Madrid. I build AI products, from consumer apps to agents that run inside other apps.
+CS & AI at IE University, Madrid. I build AI products, from consumer apps to agents that run inside other apps.
 
-The fastest growing content creator of 2026: 0 to 2.3 million followers (@EvoConn).
+The fastest-growing content creator of 2026: 0 to 2.3M followers (@EvoConn).
 
-## Work
+87M likes on 576 videos in under a year.
 
-- **Evo.** A social philosophy app I built alone, where AI analyzes your reflections through great philosophers. 150,000 users.
-- **Fiodos.** An SDK for AI agents that run inside apps: core, React Native, a multi-app backend and auto-manifest.
-- **Lizzy.** A voice assistant built for the Fiodos team.
-- **Aura Farmed.** Built with Alejandro Serrano for the NASA Space Apps Challenge 2026 (Field Shift challenge): a decision-support prototype that helps farms compare crop rotations with NASA climate data.
+[LinkedIn](https://www.linkedin.com/in/rmartinezcasau/) · [TikTok](https://www.tiktok.com/@evoconn) · [YouTube](https://www.youtube.com/@EvoConn) · [Instagram](https://www.instagram.com/evoconnn/) · [Evo on Google Play](https://play.google.com/store/apps/details?id=com.evoconn.evo&hl=es_419)
 
 Most of my code lives in private repositories.
 
+## Shipped
+
+**Evo.** A social philosophy app where AI analyzes your reflections through great philosophers. 150,000 users.  
+[Website](https://www.evoconn.com/) · [Google Play](https://play.google.com/store/apps/details?id=com.evoconn.evo&hl=es_419)
+
+**Fiodos.** An SDK for AI agents that run inside apps: core, React Native, a multi-app backend, and auto-manifest.  
+[Demo](https://fiodos.com/) · [Source](https://github.com/RodrigoMartinezCasau/fyodos-showcase)
+
+**Lizzy.** A voice assistant for the Fiodos team.  
+[Source](https://github.com/RodrigoMartinezCasau/lizzy-voice)
+
+**Aura Farmed.** NASA Space Apps Challenge 2026 (Field Shift).  
+[Source](https://github.com/alejandroserranosanchez/AURAFARMED)
+
+
 ## Stack
 
-TypeScript, Python, JavaScript, Swift, React Native.
+**Languages.** TypeScript, Python, JavaScript, Swift, C.
 
-## Links
+**Mobile.** React Native, Expo.
 
-- [Evo](https://www.evoconn.com/)
-- [Fiodos](https://fiodos.com/)
-- [Evo on Google Play](https://play.google.com/store/apps/details?id=com.evoconn.evo&hl=es_419)
-- [Instagram](https://www.instagram.com/evoconnn/)
-- [TikTok](https://www.tiktok.com/@evoconn)
-- [YouTube](https://www.youtube.com/@EvoConn)
-- [LinkedIn](https://www.linkedin.com/in/rmartinezcasau/)
+**Web & data.** Next.js, Supabase.
+
+**Voice.** Python, Whisper, edge-tts.
