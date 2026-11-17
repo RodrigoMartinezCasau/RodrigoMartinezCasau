@@ -6,11 +6,13 @@ The fastest-growing content creator of 2026: 0 to 2.3M followers (@EvoConn).
 
 87M likes on 576 videos in under a year.
 
+## 📫 Links
+
 [LinkedIn](https://www.linkedin.com/in/rmartinezcasau/) · [TikTok](https://www.tiktok.com/@evoconn) · [YouTube](https://www.youtube.com/@EvoConn) · [Instagram](https://www.instagram.com/evoconnn/) · [Evo on Google Play](https://play.google.com/store/apps/details?id=com.evoconn.evo&hl=es_419)
 
 Most of my code lives in private repositories.
 
-## Shipped
+## 🚀 Shipped
 
 **Evo.** A social philosophy app where AI analyzes your reflections through great philosophers. 150,000 users.  
 [Website](https://www.evoconn.com/) · [Google Play](https://play.google.com/store/apps/details?id=com.evoconn.evo&hl=es_419)
@@ -25,7 +27,7 @@ Most of my code lives in private repositories.
 [Source](https://github.com/alejandroserranosanchez/AURAFARMED)
 
 
-## Stack
+## 🛠️ Stack
 
 **Languages.** TypeScript, Python, JavaScript, Swift, C.
 
