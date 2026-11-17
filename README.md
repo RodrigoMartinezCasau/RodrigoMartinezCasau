@@ -4,8 +4,6 @@ CS & AI at IE University, Madrid. I build AI products, from consumer apps to age
 
 The fastest-growing content creator of 2026: 0 to 2.3M followers (@EvoConn).
 
-87M likes on 576 videos in under a year.
-
 ## 📫 Links
 
 [LinkedIn](https://www.linkedin.com/in/rmartinezcasau/) · [TikTok](https://www.tiktok.com/@evoconn) · [YouTube](https://www.youtube.com/@EvoConn) · [Instagram](https://www.instagram.com/evoconnn/) · [Evo on Google Play](https://play.google.com/store/apps/details?id=com.evoconn.evo&hl=es_419)
