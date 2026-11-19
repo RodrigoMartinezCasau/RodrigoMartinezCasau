@@ -1,6 +1,6 @@
 # Rodrigo Martínez Casaú
 
-CS & AI at IE University, Madrid. I build AI products, from consumer apps to agents that run inside other apps.
+CS & AI at IE University. I build AI products, from consumer apps to agents that run inside other apps.
 
 The fastest-growing content creator of 2026: 0 to 2.3M followers (@EvoConn).
 
